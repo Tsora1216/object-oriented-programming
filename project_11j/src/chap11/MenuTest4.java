@@ -70,3 +70,12 @@ public class MenuTest4 extends Application {
     }
     
 }
+--- Selecting Initial state ... Success
+--- Selecting 前年 ... Success
+--- Selecting 前月 ... Failed cause 西暦2022年5月28日(土) ?
+--- Selecting 前日 ... Failed cause 西暦2022年6月27日(月) ?
+--- Selecting 翌年 ... Failed cause 西暦2023年6月28日(水) ?
+--- Selecting 翌月 ... Failed cause 西暦2022年7月28日(木) ?
+--- Selecting 翌日 ... Failed cause 西暦2022年6月29日(水) ?
+--- Selecting 翌日 ... Success
+--- Selecting 今日 ... Success
