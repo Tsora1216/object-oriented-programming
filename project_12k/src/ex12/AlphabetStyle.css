@@ -1,0 +1,15 @@
+/*
+ * Exercise 12S: Style for AlphabetApp
+ */
+
+.root {
+    -fx-font-size: 14pt;
+}
+
+.button {
+    -fx-background-color: darkgreen;
+}
+
+.button:hover {
+    -fx-background-color: green;
+}
